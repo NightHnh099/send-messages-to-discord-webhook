@@ -1,6 +1,6 @@
 # Send messages to a Discord Webhook
 ## Usage
-Should be attached to a <form> tag.
+Should be attached to a form tag.
 
 Example:
   ```
